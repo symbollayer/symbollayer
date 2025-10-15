@@ -1,0 +1,3 @@
+author=shk
+url=https://symbollayer.com/about
+date=2025-10-14
